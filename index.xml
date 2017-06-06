@@ -19,7 +19,7 @@
 
 &lt;h2 id=&#34;some-content&#34;&gt;Some content&lt;/h2&gt;
 
-&lt;iframe width=&#34;100%&#34; height=&#34;480&#34; src=&#34;https://player.vimeo.com/video/146022717&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;&#34; async=&#34;&#34; preload=&#34;&#34;&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;auto&#34; src=&#34;https://player.vimeo.com/video/146022717&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;&#34; async=&#34;&#34; preload=&#34;&#34;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;span style=&#34;color: rgb(40, 40, 40); font-size: 1.5em; word-spacing: 0.5px;&#34;&gt;Some image:&lt;/span&gt;&lt;/p&gt;
 
