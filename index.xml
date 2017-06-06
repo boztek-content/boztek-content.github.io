@@ -15,7 +15,17 @@
       <pubDate>Tue, 06 Jun 2017 12:08:16 +0000</pubDate>
       
       <guid>https://boztek-content.github.io/basic-page/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://boztek-content.github.io/uploads/2017/06/06/57041529-zoidberg-wallpapers.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+      <description>
+
+&lt;h2 id=&#34;some-content&#34;&gt;Some content&lt;/h2&gt;
+
+&lt;p&gt;Some iframe:&lt;/p&gt;
+
+&lt;iframe width=&#34;100%&#34; height=&#34;auto&#34; src=&#34;https://www.youtube.com/embed/MhkGQAoc7bc&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;&#34; async=&#34;&#34; preload=&#34;&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Some image:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://boztek-content.github.io/uploads/2017/06/06/57041529-zoidberg-wallpapers.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
