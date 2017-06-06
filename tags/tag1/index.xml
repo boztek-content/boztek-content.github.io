@@ -9,6 +9,20 @@
     <atom:link href="https://boztek-content.github.io/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Second post</title>
+      <link>https://boztek-content.github.io/blog/second-post/</link>
+      <pubDate>Tue, 06 Jun 2017 13:19:04 +0000</pubDate>
+      
+      <guid>https://boztek-content.github.io/blog/second-post/</guid>
+      <description>
+
+&lt;h2 id=&#34;should-be-useful&#34;&gt;Should be useful&lt;/h2&gt;
+
+&lt;p&gt;?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Post title</title>
       <link>https://boztek-content.github.io/blog/post-title/</link>
       <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
