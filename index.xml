@@ -19,11 +19,13 @@
 
 &lt;h2 id=&#34;some-content&#34;&gt;Some content&lt;/h2&gt;
 
-&lt;p&gt;Some iframe:&lt;/p&gt;
 
-&lt;iframe width=&#34;100%&#34; height=&#34;auto&#34; src=&#34;https://www.youtube.com/embed/MhkGQAoc7bc&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;&#34; async=&#34;&#34; preload=&#34;&#34;&gt;&lt;/iframe&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/146022717&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
 
-&lt;p&gt;Some image:&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#34;font-size: 1rem;&#34;&gt;Some image:&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://boztek-content.github.io/uploads/2017/06/06/57041529-zoidberg-wallpapers.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
