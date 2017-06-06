@@ -19,24 +19,15 @@
 
 &lt;h2 id=&#34;some-content&#34;&gt;Some content&lt;/h2&gt;
 
+&lt;iframe width=&#34;100%&#34; height=&#34;480&#34; src=&#34;https://player.vimeo.com/video/146022717&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;&#34; async=&#34;&#34; preload=&#34;&#34;&gt;&lt;/iframe&gt;
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/146022717&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;p&gt;&lt;span style=&#34;color: rgb(40, 40, 40); font-size: 1.5em; word-spacing: 0.5px;&#34;&gt;Some image:&lt;/span&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&#34;https://boztek-content.github.io/uploads/2017/06/06/57041529-zoidberg-wallpapers.jpg&#34; alt=&#34;&#34; class=&#34; forestry--none&#34; style=&#34;float: none;&#34;&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;some-image&#34;&gt;Some image:&lt;/h3&gt;
+&lt;h3 id=&#34;span-style-color-rgb-25-25-25-font-size-1rem-blah-blah-span&#34;&gt;&lt;span style=&#34;color: rgb(25, 25, 25); font-size: 1rem;&#34;&gt;Blah blah.&lt;/span&gt;&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://boztek-content.github.io/uploads/2017/06/06/57041529-zoidberg-wallpapers.jpg&#34; alt=&#34;&#34; class=&#34;&#34;&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;some-tweet&#34;&gt;Some tweet:&lt;/h3&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Hugo 0.15 will have 30%+ faster render times thanks to this commit &lt;a href=&#34;https://t.co/FfzhM8bNhT&#34;&gt;https://t.co/FfzhM8bNhT&lt;/a&gt;  &lt;a href=&#34;https://twitter.com/hashtag/gohugo?src=hash&#34;&gt;#gohugo&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/golang?src=hash&#34;&gt;#golang&lt;/a&gt; &lt;a href=&#34;https://t.co/ITbMNU2BUf&#34;&gt;https://t.co/ITbMNU2BUf&lt;/a&gt;&lt;/p&gt;&amp;mdash; Steve Francia (@spf13) &lt;a href=&#34;https://twitter.com/spf13/status/666616452582129664&#34;&gt;November 17, 2015&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;p&gt;Blah blah.&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Mirage v0.3.3 is out, with support for Polymorphic associations and auto-discovery of Ember Data models&lt;a href=&#34;https://t.co/bzbhkjIECV&#34;&gt;https://t.co/bzbhkjIECV&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/EmberJS?src=hash&#34;&gt;#EmberJS&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sam Selikoff (@samselikoff) &lt;a href=&#34;https://twitter.com/samselikoff/status/871868122764128260&#34;&gt;June 5, 2017&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;en&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Mirage v0.3.3 is out, with support for Polymorphic associations and auto-discovery of Ember Data models&amp;nbsp;&lt;a href=&#34;https://t.co/bzbhkjIECV&#34;&gt;https://t.co/bzbhkjIECV&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/EmberJS?src=hash&#34;&gt;#EmberJS&lt;/a&gt;&lt;/p&gt;— Sam Selikoff (@samselikoff) &lt;a href=&#34;https://twitter.com/samselikoff/status/871868122764128260&#34;&gt;June 5, 2017&lt;/a&gt;&lt;/blockquote&gt; &lt;script type=&#34;null&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
     </item>
     
