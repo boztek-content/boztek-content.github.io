@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on My New Hugo Site</title>
+    <link>https://boztek-content.github.io/blog/index.xml</link>
+    <description>Recent content in Blogs on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jul 2014 10:54:24 +0200</lastBuildDate>
+    <atom:link href="https://boztek-content.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Post title</title>
+      <link>https://boztek-content.github.io/blog/post-title/</link>
+      <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
+      
+      <guid>https://boztek-content.github.io/blog/post-title/</guid>
+      <description>
+
+&lt;h2 id=&#34;first-post&#34;&gt;First post!&lt;/h2&gt;
+
+&lt;p&gt;First.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

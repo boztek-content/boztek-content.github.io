@@ -51,5 +51,19 @@
 </description>
     </item>
     
+    <item>
+      <title>Post title</title>
+      <link>https://boztek-content.github.io/blog/post-title/</link>
+      <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
+      
+      <guid>https://boztek-content.github.io/blog/post-title/</guid>
+      <description>
+
+&lt;h2 id=&#34;first-post&#34;&gt;First post!&lt;/h2&gt;
+
+&lt;p&gt;First.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
