@@ -9,6 +9,16 @@
     <atom:link href="https://boztek-content.github.io/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Boris</title>
+      <link>https://boztek-content.github.io/boris/</link>
+      <pubDate>Tue, 06 Jun 2017 14:46:52 +0000</pubDate>
+      
+      <guid>https://boztek-content.github.io/boris/</guid>
+      <description>&lt;p&gt;dang&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Second post</title>
       <link>https://boztek-content.github.io/blog/second-post/</link>
       <pubDate>Tue, 06 Jun 2017 13:19:04 +0000</pubDate>
